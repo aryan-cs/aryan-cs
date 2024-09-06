@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Aryan Gupta</h1>
+<h5 align="center">Financial Simulations | Game Theory | Artificial Intelligence</h5>
 
-<!--
-**aryan-cs/aryan-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<img src="https://raw.githubusercontent.com/aryan-cs/aryan-cs/output/snake.svg" alt="Snake animation" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="right">
+  <a href="https://www.linkedin.com/in/aryan-g/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
