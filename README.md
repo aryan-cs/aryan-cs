@@ -6,7 +6,6 @@
  - [Metropolis-Hastings Algorithm](https://github.com/aryan-cs/metro-hast)
  - [Quant @ Illinois Application (2024)](https://github.com/aryan-cs/quant-app-2024)
  - [Keynesian Thinking & Experimental Economics](https://github.com/aryan-cs/keynesian-66)
- - [Chess Implementation of Minimax Algorithm with Alpha-Beta Pruning and FEN Key support](https://github.com/aryan-cs/chess-cracker)
 
 <h4 align="left">Artificial Intelligence</h2>
 
