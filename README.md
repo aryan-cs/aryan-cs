@@ -14,7 +14,7 @@
 
 <h3 align="left">Resume</h3>
 
-- [Download PDF](https://github.com/aryan-cs/aryan-cs/blob/master/resume)
+- [Download PDF](https://github.com/aryan-cs/aryan-cs/blob/master/resume.pdf)
 
 <div align="right">
   <a href="https://www.linkedin.com/in/aryan-g/" target="_blank">
