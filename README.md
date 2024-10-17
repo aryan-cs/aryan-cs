@@ -4,7 +4,7 @@
 
 - [Metropolis-Hastings Algorithm](https://github.com/aryan-cs/metro-hast)
 - [Quant @ Illinois Application (2024)](https://github.com/aryan-cs/quant-app-2024)
-- [Monty Hall Problem]([https://github.com/aryan-cs/keynesian-66](https://github.com/aryan-cs/monty-hall/blob/master/monty_python.ipynb))
+- [Monty Hall Problem](https://github.com/aryan-cs/monty-hall/blob/master/monty_python.ipynb)
 
 <h3 align="left">Artificial Intelligence</h3>
 
