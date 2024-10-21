@@ -1,6 +1,6 @@
 <h1 align="center">Aryan Gupta</h1>
 
-<h3 align="left">Finance & Math</h3>
+<h3 align="left">Mathematics</h3>
 
 - [Metropolis-Hastings Algorithm](https://github.com/aryan-cs/metro-hast)
 - [Quant @ Illinois Application (2024)](https://github.com/aryan-cs/quant-app-2024)
