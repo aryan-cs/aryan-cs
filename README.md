@@ -5,7 +5,7 @@
 - [Metropolis-Hastings Algorithm](https://github.com/aryan-cs/metro-hast)
 - [Quant @ Illinois Application (2024)](https://github.com/aryan-cs/quant-app-2024)
 - [Monty Hall Problem](https://github.com/aryan-cs/monty-hall/blob/master/monty_python.ipynb)
-- [3-dice Game from Five Rings Interview](https://github.com/aryan-cs/five-rings-interview/blob/master/five_rings_interview.ipynb)
+- [3-Dice Game from Five Rings Interview](https://github.com/aryan-cs/five-rings-interview/blob/master/five_rings_interview.ipynb)
 
 <h3 align="left">Artificial Intelligence</h3>
 
