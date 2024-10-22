@@ -6,6 +6,7 @@
 - [Quant @ Illinois Application (2024)](https://github.com/aryan-cs/quant-app-2024)
 - [Monty Hall Problem](https://github.com/aryan-cs/monty-hall/blob/master/monty_python.ipynb)
 - [3-Dice Game from Five Rings Interview](https://github.com/aryan-cs/five-rings-interview/blob/master/five_rings_interview.ipynb)
+- [Keynesian Thought Processes & Game Theory Application](https://github.com/aryan-cs/keynesian-thinking/blob/master/keynesian_thinking.ipynb)
 
 <h3 align="left">Artificial Intelligence</h3>
 
