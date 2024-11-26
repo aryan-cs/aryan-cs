@@ -13,7 +13,7 @@
 - [Computer Vision & 3D Trigonometry](https://github.com/aryan-cs/hand-e)
 - [Computer Vision, Biotechnology, and ESP32/Arduino Hardware](https://github.com/aryan-cs/project-plastic)
 
-<h3 align="left">Resume</h3>
+<h3 align="left">Portfolio</h3>
 
 - [Website](https://aryan-cs.github.io/)
 
