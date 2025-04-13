@@ -19,7 +19,7 @@
 
 <h3 align="left">If I teach you...</h3>
 
-- [Data Strctures & Algorithms in C++](https://github.com/aryan-cs/dsa)
+- [Data Structures & Algorithms in C++](https://github.com/aryan-cs/dsa)
 
 <div align="right">
   <a href="https://www.linkedin.com/in/aryan-g/" target="_blank">
