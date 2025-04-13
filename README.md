@@ -7,7 +7,7 @@
 - [3-Dice Game from Five Rings Interview](https://github.com/aryan-cs/five-rings-interview/blob/master/five_rings_interview.ipynb)
 - [Keynesian Thought Processes & Game Theory Application](https://github.com/aryan-cs/keynesian-thinking/blob/master/keynesian_thinking.ipynb)
 
-<h3 align="left">Artificial Intelligence</h3>
+<h3 align="left">AI/ML</h3>
 
 - [Natural Language & Emotional Context Processing](https://github.com/aryan-cs/ren)
 - [Computer Vision & 3D Trigonometry](https://github.com/aryan-cs/hand-e)
@@ -16,6 +16,9 @@
 <h3 align="left">Portfolio</h3>
 
 - [Website](https://aryan-cs.github.io/)
+
+<h3 align="left">If I teach you...</h3>
+- [Data Strctures & Algorithms in C++](https://github.com/aryan-cs/dsa)
 
 <div align="right">
   <a href="https://www.linkedin.com/in/aryan-g/" target="_blank">
