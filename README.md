@@ -1,6 +1,6 @@
 <h1 align="center">Aryan Gupta</h1>
 
-<h3 align="left">Mathematics/Statistics</h3>
+<h3 align="left">Mathematics & Physics</h3>
 
 - [The Mathematics of Poker-like Games](https://github.com/aryan-cs/poker-like-games/blob/discrete-poker/discrete_poker_games.ipynb)
 - [Metropolis-Hastings Algorithm](https://github.com/aryan-cs/metro-hast)
