@@ -1,12 +1,13 @@
 <h1 align="center">Aryan Gupta</h1>
 
-<h3 align="left">Mathematics</h3>
+<h3 align="left">Mathematics/Statistics</h3>
 
 - [The Mathematics of Poker-like Games](https://github.com/aryan-cs/poker-like-games/blob/discrete-poker/discrete_poker_games.ipynb)
 - [Metropolis-Hastings Algorithm](https://github.com/aryan-cs/metro-hast)
 - [Monty Hall Problem](https://github.com/aryan-cs/monty-hall/blob/master/monty_python.ipynb)
 - [3-Dice Game from Five Rings Interview](https://github.com/aryan-cs/five-rings-interview/blob/master/five_rings_interview.ipynb)
 - [Keynesian Thought Processes & Game Theory Application](https://github.com/aryan-cs/keynesian-thinking/blob/master/keynesian_thinking.ipynb)
+- [String Art w/ Stochastic Sampling & Shannon Entropy](https://github.com/aryan-cs/string-art)
 
 <h3 align="left">AI/ML</h3>
 
