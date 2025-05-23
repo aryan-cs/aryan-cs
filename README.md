@@ -16,10 +16,6 @@
 - [Computer Vision & 3D Trigonometry](https://github.com/aryan-cs/hand-e)
 - [Computer Vision, Biotechnology, and ESP32/Arduino Hardware](https://github.com/aryan-cs/project-plastic)
 
-<h3 align="left">If I teach you...</h3>
-
-- [Data Structures & Algorithms in C++](https://github.com/aryan-cs/dsa)
-
 <div align="right">
   <a href="https://www.linkedin.com/in/aryan-g/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo" />
