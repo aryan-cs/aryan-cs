@@ -12,7 +12,7 @@
 <h3 align="left">AI/ML</h3>
 
 - [Lightweight C++ Neural Network](https://github.com/aryan-cs/rhesus-macaque)
-- [Natural Language & Emotional Context Processing](https://github.com/aryan-cs/ren)
+- [Natural Language & Retrieval-Augmented Generation](https://github.com/aryan-cs/ren)
 - [Computer Vision & 3D Trigonometry](https://github.com/aryan-cs/hand-e)
 - [Computer Vision, Biotechnology, and ESP32/Arduino Hardware](https://github.com/aryan-cs/project-plastic)
 
