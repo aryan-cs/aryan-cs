@@ -15,6 +15,7 @@
 - [Natural Language & Retrieval-Augmented Generation](https://github.com/aryan-cs/gigantopithecus)
 - [Computer Vision & 3D Trigonometry](https://github.com/aryan-cs/hand-e)
 - [Computer Vision, Biotechnology, and ESP32/Arduino Hardware](https://github.com/aryan-cs/project-plastic)
+- [Computer Vision, OSINT](https://github.com/aryan-cs/cebinae)
 
 <div align="right">
   <a href="https://www.linkedin.com/in/aryan-g/" target="_blank">
