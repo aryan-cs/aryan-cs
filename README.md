@@ -11,11 +11,19 @@
 
 <h3 align="left">AI/ML</h3>
 
+- [LLMs, MCP, and Agentic AI](https://github.com/aryan-cs/ngmi)
 - [Lightweight C++ Neural Network](https://github.com/aryan-cs/rhesus-macaque)
 - [Natural Language & Retrieval-Augmented Generation](https://github.com/aryan-cs/gigantopithecus)
 - [Computer Vision & 3D Trigonometry](https://github.com/aryan-cs/hand-e)
 - [Computer Vision, Biotechnology, and ESP32/Arduino Hardware](https://github.com/aryan-cs/project-plastic)
 - [Computer Vision, OSINT](https://github.com/aryan-cs/cebinae)
+
+<h3 align="left">Tools/Resources</h3>
+
+- [Data Structures & Algorithms Reference Sheet in C++](https://github.com/aryan-cs/dsa)
+- [Integrated Desktop Assistant](https://github.com/aryan-cs/hinty)
+- [NeurIPS/ICML/ICLR Outreach](https://github.com/aryan-cs/prof)
+- [Go Green!](https://github.com/aryan-cs/mandrill)
 
 <div align="right">
   <a href="https://www.linkedin.com/in/aryan-g/" target="_blank">
