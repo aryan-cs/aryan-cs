@@ -1,10 +1,10 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+<h1 align="center">
+  
+  Aryan Gupta
 
-###
-
-<h1 align="center">Aryan Gupta</h1>
+  ![](https://komarev.com/ghpvc/?username=aryan-cs&label=Visited+by&color=4483BE&base=3147)
+  
+</h1>
 
 <h3 align="left">Mathematics & Physics</h3>
 
@@ -38,15 +38,5 @@
   <a href="https://x.com/aryanguptacs" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-
-  <br />
-
-  ![](https://komarev.com/ghpvc/?username=aryan-cs&label=Visited+by&color=4483BE&base=3147)
   
 </div>
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=11&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
-</div>
-
-###
