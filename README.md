@@ -4,12 +4,6 @@
   
 </h1>
 
-<h5 align="center">
-  
-  ![](https://komarev.com/ghpvc/?username=aryan-cs&label=Visited+by&color=4483BE&base=3147)
-  
-</h5>
-
 <h3 align="left">Mathematics & Physics</h3>
 
 - [The Mathematics of Poker-like Games](https://github.com/aryan-cs/poker-like-games/tree/discrete-poker)
