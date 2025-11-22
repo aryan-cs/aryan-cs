@@ -31,4 +31,3 @@
   </a>
 </div>
 ![](https://komarev.com/ghpvc/?username=aryan-cs&label=Visited+by&color=4483BE&base=3147)
-![](https://komarev.com/ghpvc/?username=aryan-cs&style=pixel)
