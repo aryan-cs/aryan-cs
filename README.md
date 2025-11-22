@@ -1,8 +1,8 @@
-<h1 align="center">
-  
-  Aryan Gupta
-  
-</h1>
+<h1 align="center"> Aryan Gupta </h1>
+
+<div align="center" float="left">
+
+</div>
 
 <h3 align="left">Mathematics & Physics</h3>
 
@@ -29,12 +29,4 @@
 - [NeurIPS/ICML/ICLR Outreach](https://github.com/aryan-cs/prof)
 - [Go Green!](https://github.com/aryan-cs/mandrill)
 
-<div align="right">
-  <a href="https://www.linkedin.com/in/aryan-g/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo" />
-  </a>
-  <a href="https://x.com/aryanguptacs" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  
-</div>
+_Note: My latest & coolest works are not available here._
