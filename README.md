@@ -4,11 +4,11 @@
   
 </h1>
 
-<h3 align="center">
+<h5 align="center">
   
   ![](https://komarev.com/ghpvc/?username=aryan-cs&label=Visited+by&color=4483BE&base=3147)
   
-</h3>
+</h5>
 
 <h3 align="left">Mathematics & Physics</h3>
 
