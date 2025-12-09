@@ -15,6 +15,7 @@
 
 <h3 align="left">AI/ML</h3>
 
+- [LLMs, Prediction Markets, and Quantitative Finance](https://github.com/aryan-cs/grok-trader) 
 - [LLMs, MCP, and Agentic AI](https://github.com/aryan-cs/ngmi)
 - [Lightweight C++ Neural Network](https://github.com/aryan-cs/rhesus-macaque)
 - [Natural Language & Retrieval-Augmented Generation](https://github.com/aryan-cs/gigantopithecus)
