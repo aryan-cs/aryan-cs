@@ -32,4 +32,10 @@
 - [ECE 449 Machine Learning](https://github.com/aryan-cs/ece449/blob/master/ece449.ipynb)
 - [CS 491 Advanced Competitive Programming](https://github.com/aryan-cs/cs491)
 
+<h3 align="left">Works in Progress</h3>
+
+- [Pecan](https://github.com/aryan-cs/pecan)
+- [Movic Studio](https://github.com/aryan-cs/movic-studio)
+- [Notion-space Reasoning](https://github.com/aryan-cs/notion-space)
+
 _Note: My latest & coolest works are not available here._
