@@ -7,6 +7,7 @@
 <h3 align="left">Mathematics & Physics</h3>
 
 - [The Mathematics of Poker-like Games](https://github.com/aryan-cs/poker-like-games/tree/discrete-poker)
+- [Reachable via Monte Carlo](https://github.com/aryan-cs/quant-sp2025/blob/master/reachable.ipynb)
 - [Metropolis-Hastings Algorithm](https://github.com/aryan-cs/metro-hast)
 - [Monty Hall Problem](https://github.com/aryan-cs/monty-hall/blob/master/monty_python.ipynb)
 - [3-Dice Game from Five Rings Interview](https://github.com/aryan-cs/five-rings-interview/blob/master/five_rings_interview.ipynb)
