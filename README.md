@@ -19,7 +19,6 @@
 - [Open-source Machine Learning Education Platform](https://github.com/aryan-cs/burn)
 - [Truth-grounded Digital Twins, Information Diffusion Simulations](https://github.com/aryan-cs/matrix)
 - [LLMs, Prediction Markets, and Quantitative Finance](https://github.com/aryan-cs/grok-trader) 
-- [LLMs, MCP, and Agentic AI](https://github.com/aryan-cs/ngmi)
 - [Lightweight C++ Neural Network](https://github.com/aryan-cs/rhesus-macaque)
 - [Computer Vision & 3D Trigonometry](https://github.com/aryan-cs/hand-e)
 - [Computer Vision, Biotechnology, and ESP32/Arduino Hardware](https://github.com/aryan-cs/project-plastic)
