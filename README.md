@@ -31,5 +31,6 @@
 - [Go Green!](https://github.com/aryan-cs/mandrill)
 - [ECE 449 Machine Learning](https://github.com/aryan-cs/ece449/blob/master/ece449.ipynb)
 - [CS 491 Advanced Competitive Programming](https://github.com/aryan-cs/cs491)
+- [Aryan's Resume Template](https://www.overleaf.com/read/gwxsbvmyrvnr#73301e)
 
 _Note: My latest & coolest works are not available here._
