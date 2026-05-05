@@ -34,5 +34,4 @@
 - [CS 491 Advanced Competitive Programming](https://github.com/aryan-cs/cs491)
 - [Aryan's Resume Template](https://www.overleaf.com/read/gwxsbvmyrvnr#73301e)
 - [Claude Code Rate Limit Workaround](https://github.com/aryan-cs/go-claude)
-
-_Note: My latest & coolest works are not available here._
+- [Open Source Wispr Flow](https://github.com/aryan-cs/better-voice-ink)
