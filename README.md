@@ -18,7 +18,7 @@
 
 - [Gradient](https://github.com/aryan-cs/gradient)
 - [Improving Financial Response Forecasting from SEC Disclosures](https://github.com/aryan-cs/distributional-jump-bridges)
-- [Open-source Machine Learning Education Platform Prototype](https://github.com/aryan-cs/burn)
+- [Open Source Machine Learning Education Platform Prototype](https://github.com/aryan-cs/burn)
 - [Truth-grounded Digital Twins, Information Diffusion Simulations](https://github.com/aryan-cs/matrix)
 - [LLMs, Prediction Markets, and Quantitative Finance](https://github.com/aryan-cs/grok-trader) 
 - [Lightweight C++ Neural Network](https://github.com/aryan-cs/rhesus-macaque)
