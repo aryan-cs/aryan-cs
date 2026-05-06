@@ -34,6 +34,7 @@
 - [LLMs, Prediction Markets, and Quantitative Finance](https://github.com/aryan-cs/grok-trader) 
 - [Lightweight C++ Neural Network](https://github.com/aryan-cs/rhesus-macaque)
 - [Computer Vision & 3D Trigonometry](https://github.com/aryan-cs/hand-e)
+- [Computer Vision & UAVs/F22 Raptor](https://github.com/aryan-cs/bird)
 - [Computer Vision, Biotechnology, and ESP32/Arduino Hardware](https://github.com/aryan-cs/project-plastic)
 
 <h3 align="left">Tools/Resources</h3>
