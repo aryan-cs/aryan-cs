@@ -27,6 +27,7 @@
 <h3 align="left">AI/ML</h3>
 
 - [Gradient](https://github.com/aryan-cs/gradient)
+- [Transitioning from Token-first Architecture to 'Notion'-first Architecture (WIP)](https://github.com/aryan-cs/notion-space)
 - [Improving Financial Response Forecasting from SEC Disclosures](https://github.com/aryan-cs/distributional-jump-bridges)
 - [Open Source Machine Learning Education Platform Prototype](https://github.com/aryan-cs/burn)
 - [Truth-grounded Digital Twins, Information Diffusion Simulations](https://github.com/aryan-cs/matrix)
