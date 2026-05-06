@@ -4,6 +4,16 @@
 
 </div>
 
+<h3 align="left">Papers</h3>
+
+- [Distributional Jump Bridges for Disclosure Response Forecasts](https://aryan-cs.github.io/distributional-jump-bridges/djb.pdf)
+- [Cache-Mediated Safety Erasure: Testing Whether KV-Cache Optimizations Selectively Weaken Refusal Behavior](https://aryan-cs.github.io/kv-cache-safety/kv-cache-safety.pdf)
+- [Measuring Altruism, Alignment, and Social Welfare in Large Language Model Agents (Research Proposal, Submitted to NeurIPS '26)](https://aryan-cs.github.io/llm-altruism/llm-altruism-research-proposal.pdf)
+- [World's Simplest Poker: A Complete Analysis of the Discrete Analogue](https://aryan-cs.github.io/poker-like-games/discrete-edition-1.pdf)
+- [Extending Persuasion for Misinformation to Graphs](https://aryan-cs.github.io/combating-misinformation/combating-misinformation.pdf)
+- [Haptic Permeability: Adding Holes to Tactile Devices Improves Dexterity](https://dl.acm.org/doi/full/10.1145/3613904.3642156)
+- [Power-on-Touch: Powering Actuators, Sensors, and Devices during Interaction](https://dl.acm.org/doi/full/10.1145/3706598.3713987)
+
 <h3 align="left">Mathematics & Physics</h3>
 
 - [The Mathematics of Poker-like Games](https://github.com/aryan-cs/poker-like-games/tree/discrete-poker)
