@@ -8,7 +8,7 @@
 
 - [Distributional Jump Bridges for Disclosure Response Forecasts](https://aryan-cs.github.io/distributional-jump-bridges/djb.pdf)
 - [Cache-Mediated Safety Erasure: Testing Whether KV-Cache Optimizations Selectively Weaken Refusal Behavior](https://aryan-cs.github.io/kv-cache-safety/kv-cache-safety.pdf)
-- [Measuring Altruism, Alignment, and Social Welfare in Large Language Model Agents](https://aryan-cs.github.io/llm-altruism/llm-altruism-research-proposal.pdf)
+- [Measuring Altruism, Alignment, and Social Welfare in Large Language Model Agents](https://aryan-cs.github.io/llm-altruism/release/research-proposal.pdf)
 - [World's Simplest Poker: A Complete Analysis of the Discrete Analogue](https://aryan-cs.github.io/poker-like-games/discrete-edition-1.pdf)
 - [Extending Persuasion for Misinformation to Graphs](https://aryan-cs.github.io/combating-misinformation/combating-misinformation.pdf)
 - [Haptic Permeability: Adding Holes to Tactile Devices Improves Dexterity](https://dl.acm.org/doi/full/10.1145/3613904.3642156) `(CHI '24)`
