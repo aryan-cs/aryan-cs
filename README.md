@@ -7,8 +7,8 @@
 <h3 align="left">Papers</h3>
 
 - [The Notion-Based Reasoning System: Compositional Execution via Dependency-Gated Recurrence](https://aryan-cs.github.io/notion-space/proof.pdf)
-- [Distributional Jump Bridges for Disclosure Response Forecasts](https://aryan-cs.github.io/distributional-jump-bridges/djb.pdf)
 - [The Safety Tax of Cache Compression](https://aryan-cs.github.io/kv-cache-safety/kv-cache-safety.pdf)
+- [Distributional Jump Bridges for Disclosure Response Forecasts](https://aryan-cs.github.io/distributional-jump-bridges/djb.pdf)
 - [Measuring Altruism, Alignment, and Social Welfare in Large Language Model Agents](https://aryan-cs.github.io/llm-altruism/release/research-proposal.pdf)
 - [World's Simplest Poker: A Complete Analysis of the Discrete Analogue](https://aryan-cs.github.io/poker-like-games/discrete-edition-1.pdf)
 - [Extending Persuasion for Misinformation to Graphs](https://aryan-cs.github.io/combating-misinformation/combating-misinformation.pdf)
