@@ -6,6 +6,7 @@
 
 <h3 align="left">Papers</h3>
 
+- [The Notion-Based Reasoning System: Compositional Execution via Dependency-Gated Recurrence](https://aryan-cs.github.io/notion-space/proof.pdf)
 - [Distributional Jump Bridges for Disclosure Response Forecasts](https://aryan-cs.github.io/distributional-jump-bridges/djb.pdf)
 - [Cache-Mediated Safety Erasure: Testing Whether KV-Cache Optimizations Selectively Weaken Refusal Behavior](https://aryan-cs.github.io/kv-cache-safety/kv-cache-safety.pdf)
 - [Measuring Altruism, Alignment, and Social Welfare in Large Language Model Agents](https://aryan-cs.github.io/llm-altruism/release/research-proposal.pdf)
