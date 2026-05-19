@@ -1,8 +1,6 @@
 <h1 align="center"> Aryan Gupta </h1>
 
-<div align="center" float="left">
-
-</div>
+<div align="center" float="left"></div>
 
 <h2 align="left">Papers</h2>
 
