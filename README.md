@@ -4,16 +4,33 @@
 
 </div>
 
-<h3 align="left">Papers</h3>
+<h2 align="left">Papers</h2>
 
-- [The Notion-Based Reasoning System: Compositional Execution via Dependency-Gated Recurrence](https://aryan-cs.github.io/notion-space/proof.pdf)
+<h3 align="left" >Interpretability, Alignment, and Safety</h3>
+
+- [The Notion-Based Reasoning System: Compositional Execution via Dependency-Gated Recurrence](https://aryan-cs.github.io/notion-space/proof.pdf)  
 - [The Safety Tax of Cache Compression](https://aryan-cs.github.io/kv-cache-safety/kv-cache-safety.pdf)
-- [Distributional Jump Bridges for Disclosure Response Forecasts](https://aryan-cs.github.io/distributional-jump-bridges/djb.pdf)
 - [Measuring Altruism, Alignment, and Social Welfare in Large Language Model Agents](https://aryan-cs.github.io/llm-altruism/release/research-proposal.pdf)
-- [World's Simplest Poker: A Complete Analysis of the Discrete Analogue](https://aryan-cs.github.io/poker-like-games/discrete-edition-1.pdf)
-- [Extending Persuasion for Misinformation to Graphs](https://aryan-cs.github.io/combating-misinformation/combating-misinformation.pdf)
-- [Haptic Permeability: Adding Holes to Tactile Devices Improves Dexterity](https://dl.acm.org/doi/full/10.1145/3613904.3642156) `(CHI '24)`
-- [Power-on-Touch: Powering Actuators, Sensors, and Devices during Interaction](https://dl.acm.org/doi/full/10.1145/3706598.3713987) `(CHI '25)`
+
+
+<h3 align="left">Finance</h3>
+
+  - [Distributional Jump Bridges for Disclosure Response Forecasts](https://aryan-cs.github.io/distributional-jump-bridges/djb.pdf)
+
+
+<h3 align="left">Mathematics</h3>
+
+  - [World's Simplest Poker: A Complete Analysis of the Discrete Analogue](https://aryan-cs.github.io/poker-like-games/discrete-edition-1.pdf)
+  - [Extending Persuasion for Misinformation to Graphs](https://aryan-cs.github.io/combating-misinformation/combating-misinformation.pdf)
+
+
+<h3 align="left">Human-Computer Interaction</h3>
+
+  - [Haptic Permeability: Adding Holes to Tactile Devices Improves Dexterity](https://dl.acm.org/doi/full/10.1145/3613904.3642156) `(CHI '24)`
+  - [Power-on-Touch: Powering Actuators, Sensors, and Devices during Interaction](https://dl.acm.org/doi/full/10.1145/3706598.3713987) `(CHI '25)`
+
+
+<h2 align="left">Projects</h2>
 
 <h3 align="left">Mathematics & Physics</h3>
 
@@ -24,6 +41,7 @@
 - [3-Dice Game from Five Rings Interview](https://github.com/aryan-cs/five-rings-interview/blob/master/five_rings_interview.ipynb)
 - [Keynesian Thought Processes & Game Theory Application](https://github.com/aryan-cs/keynesian-thinking/blob/master/keynesian_thinking.ipynb)
 - [String Art w/ Stochastic Sampling & Shannon Entropy](https://github.com/aryan-cs/string-art)
+
 
 <h3 align="left">AI/ML</h3>
 
@@ -37,6 +55,7 @@
 - [Computer Vision & 3D Trigonometry](https://github.com/aryan-cs/hand-e)
 - [Computer Vision & UAVs/F22 Raptor](https://github.com/aryan-cs/bird)
 - [Computer Vision, Biotechnology, and ESP32/Arduino Hardware](https://github.com/aryan-cs/project-plastic)
+
 
 <h3 align="left">Tools/Resources</h3>
 
