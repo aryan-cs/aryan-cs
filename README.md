@@ -47,3 +47,4 @@
 - [Aryan's Resume Template](https://www.overleaf.com/read/gwxsbvmyrvnr#73301e)
 - [Claude Code Rate Limit Workaround](https://github.com/aryan-cs/go-claude)
 - [Open Source Wispr Flow](https://github.com/aryan-cs/better-voice-ink)
+- [Whiteboarding with AI](https://github.com/aryan-cs/canvas-llm)
