@@ -20,7 +20,8 @@
 
 <h3 align="left">Mathematics</h3>
 
-  - [World's Simplest Poker: A Complete Analysis of the Discrete Analogue](https://aryan-cs.github.io/poker-like-games/discrete-edition-1.pdf)
+  - [World's Simplest Poker: A Complete Analysis of the Discrete Analogue](https://aryan-cs.github.io/poker-like-games/discrete-edition.pdf)
+  - [The Mathematics of Poker-like Games](https://aryan-cs.github.io/poker-like-games/poker-like-games.pdf)
   - [Extending Persuasion for Misinformation to Graphs](https://aryan-cs.github.io/combating-misinformation/combating-misinformation.pdf)
 
 
