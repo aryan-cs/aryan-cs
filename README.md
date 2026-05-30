@@ -60,6 +60,7 @@
 
 - [Data Structures & Algorithms Reference Sheet in C++](https://github.com/aryan-cs/dsa)
 - [NeurIPS/ICML/ICLR Outreach](https://github.com/aryan-cs/prof)
+- [Researcher Insights](https://profalytics.vercel.app/)
 - [Go Green!](https://github.com/aryan-cs/mandrill)
 - [Hackathon Idea Search Engine](https://aryan-cs.github.io/hackaplan/)
 - [Aryan's Resume Template](https://www.overleaf.com/read/gwxsbvmyrvnr#73301e)
