@@ -9,7 +9,7 @@
 <ul>
 <li><a href="https://aryan-cs.github.io/notion-space/proof.pdf">The Notion-Based Reasoning System: Compositional Execution via Dependency-Gated Recurrence</a> [<a href="https://github.com/aryan-cs/notion-space"><code>REPO</code></a>]</li>
 <li><a href="https://aryan-cs.github.io/kv-cache-safety/kv-cache-safety.pdf">The Safety Tax of Cache Compression</a> [<a href="https://github.com/aryan-cs/kv-cache-safety"><code>REPO</code></a>]</li>
-<li><a href="https://aryan-cs.github.io/llm-altruism/release/research-proposal.pdf">Measuring Altruism, Alignment, and Social Welfare in Large Language Model Agents</a> [<a href="https://github.com/aryan-cs/llm-altruism"><code>REPO</code></a>]</li>
+<li><a href="https://aryan-cs.github.io/llm-altruism/release/research-proposal.pdf">Measuring Altruism, Alignment, and Social Welfare in Large Language Model Agents</a> [<a href="https://github.com/aryan-cs/llm-altruism"><code>REPO</code></a>] (<code>Under Review @ NeurIPS '26</code>)</li>
 </ul>
 </details>
 
