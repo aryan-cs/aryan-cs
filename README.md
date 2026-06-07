@@ -1,69 +1,82 @@
-<h1 align="center"> Aryan Gupta </h1>
+<h1 align="center">Aryan Gupta</h1>
 
-<div align="center" float="left"></div>
+<div align="center"></div>
 
-<h2 align="left">Papers</h2>
+## Papers
 
-<h3 align="left" >Interpretability, Alignment, and Safety</h3>
+<details open>
+<summary><strong>Interpretability, Alignment, and Safety</strong></summary>
+<ul>
+<li><a href="https://aryan-cs.github.io/notion-space/proof.pdf">The Notion-Based Reasoning System: Compositional Execution via Dependency-Gated Recurrence</a> [<a href="https://github.com/aryan-cs/notion-space"><code>REPO</code></a>]</li>
+<li><a href="https://aryan-cs.github.io/kv-cache-safety/kv-cache-safety.pdf">The Safety Tax of Cache Compression</a> [<a href="https://github.com/aryan-cs/kv-cache-safety"><code>REPO</code></a>]</li>
+<li><a href="https://aryan-cs.github.io/llm-altruism/release/research-proposal.pdf">Measuring Altruism, Alignment, and Social Welfare in Large Language Model Agents</a> [<a href="https://github.com/aryan-cs/llm-altruism"><code>REPO</code></a>]</li>
+</ul>
+</details>
 
-- [The Notion-Based Reasoning System: Compositional Execution via Dependency-Gated Recurrence](https://aryan-cs.github.io/notion-space/proof.pdf)  
-- [The Safety Tax of Cache Compression](https://aryan-cs.github.io/kv-cache-safety/kv-cache-safety.pdf)
-- [Measuring Altruism, Alignment, and Social Welfare in Large Language Model Agents](https://aryan-cs.github.io/llm-altruism/release/research-proposal.pdf)
+<details open>
+<summary><strong>Finance</strong></summary>
+<ul>
+<li><a href="https://aryan-cs.github.io/distributional-jump-bridges/djb.pdf">Distributional Jump Bridges for Disclosure Response Forecasts</a> [<a href="https://github.com/aryan-cs/distributional-jump-bridges"><code>REPO</code></a>]</li>
+</ul>
+</details>
 
+<details open>
+<summary><strong>Mathematics</strong></summary>
+<ul>
+<li><a href="https://aryan-cs.github.io/poker-like-games/discrete-edition.pdf">World's Simplest Poker: A Complete Analysis of the Discrete Analogue</a> [<a href="https://github.com/aryan-cs/poker-like-games"><code>REPO</code></a>]</li>
+<li><a href="https://aryan-cs.github.io/poker-like-games/poker-like-games.pdf">The Mathematics of Poker-like Games</a> [<a href="https://github.com/aryan-cs/poker-like-games"><code>REPO</code></a>]</li>
+<li><a href="https://aryan-cs.github.io/combating-misinformation/combating-misinformation.pdf">Extending Persuasion for Misinformation to Graphs</a> [<a href="https://github.com/aryan-cs/combating-misinformation"><code>REPO</code></a>]</li>
+</ul>
+</details>
 
-<h3 align="left">Finance</h3>
+<details open>
+<summary><strong>Human-Computer Interaction</strong></summary>
+<ul>
+<li><a href="https://dl.acm.org/doi/full/10.1145/3613904.3642156">Haptic Permeability: Adding Holes to Tactile Devices Improves Dexterity</a> (<code>CHI '24</code>)</li>
+<li><a href="https://dl.acm.org/doi/full/10.1145/3706598.3713987">Power-on-Touch: Powering Actuators, Sensors, and Devices during Interaction</a> (<code>CHI '25</code>)</li>
+</ul>
+</details>
 
-  - [Distributional Jump Bridges for Disclosure Response Forecasts](https://aryan-cs.github.io/distributional-jump-bridges/djb.pdf)
+## Projects
 
+<details>
+<summary><strong>Mathematics &amp; Physics</strong></summary>
+<ul>
+<li><a href="https://github.com/aryan-cs/poker-like-games/tree/discrete-poker">The Mathematics of Poker-like Games</a></li>
+<li><a href="https://github.com/aryan-cs/quant-sp2025/blob/master/reachable.ipynb">Reachable via Monte Carlo</a></li>
+<li><a href="https://github.com/aryan-cs/metro-hast">Metropolis-Hastings Algorithm</a></li>
+<li><a href="https://github.com/aryan-cs/monty-hall/blob/master/monty_python.ipynb">Monty Hall Problem</a></li>
+<li><a href="https://github.com/aryan-cs/five-rings-interview/blob/master/five_rings_interview.ipynb">3-Dice Game from Five Rings Interview</a></li>
+<li><a href="https://github.com/aryan-cs/keynesian-thinking/blob/master/keynesian_thinking.ipynb">Keynesian Thought Processes &amp; Game Theory Application</a></li>
+<li><a href="https://github.com/aryan-cs/string-art">String Art w/ Stochastic Sampling &amp; Shannon Entropy</a></li>
+</ul>
+</details>
 
-<h3 align="left">Mathematics</h3>
+<details>
+<summary><strong>AI/ML</strong></summary>
+<ul>
+<li><a href="https://github.com/aryan-cs/gradient">Gradient</a></li>
+<li><a href="https://github.com/aryan-cs/burn">Open Source Machine Learning Education Platform Prototype</a></li>
+<li><a href="https://github.com/aryan-cs/matrix">Truth-grounded Digital Twins, Information Diffusion Simulations</a></li>
+<li><a href="https://github.com/aryan-cs/grok-trader">LLMs, Prediction Markets, and Quantitative Finance</a></li>
+<li><a href="https://github.com/aryan-cs/rhesus-macaque">Lightweight C++ Neural Network</a></li>
+<li><a href="https://github.com/aryan-cs/hand-e">Computer Vision &amp; 3D Trigonometry</a></li>
+<li><a href="https://github.com/aryan-cs/bird">Computer Vision &amp; UAVs/F22 Raptor</a></li>
+<li><a href="https://github.com/aryan-cs/project-plastic">Computer Vision, Biotechnology, and ESP32/Arduino Hardware</a></li>
+</ul>
+</details>
 
-  - [World's Simplest Poker: A Complete Analysis of the Discrete Analogue](https://aryan-cs.github.io/poker-like-games/discrete-edition.pdf)
-  - [The Mathematics of Poker-like Games](https://aryan-cs.github.io/poker-like-games/poker-like-games.pdf)
-  - [Extending Persuasion for Misinformation to Graphs](https://aryan-cs.github.io/combating-misinformation/combating-misinformation.pdf)
-
-
-<h3 align="left">Human-Computer Interaction</h3>
-
-  - [Haptic Permeability: Adding Holes to Tactile Devices Improves Dexterity](https://dl.acm.org/doi/full/10.1145/3613904.3642156) `(CHI '24)`
-  - [Power-on-Touch: Powering Actuators, Sensors, and Devices during Interaction](https://dl.acm.org/doi/full/10.1145/3706598.3713987) `(CHI '25)`
-
-
-<h2 align="left">Projects</h2>
-
-<h3 align="left">Mathematics & Physics</h3>
-
-- [The Mathematics of Poker-like Games](https://github.com/aryan-cs/poker-like-games/tree/discrete-poker)
-- [Reachable via Monte Carlo](https://github.com/aryan-cs/quant-sp2025/blob/master/reachable.ipynb)
-- [Metropolis-Hastings Algorithm](https://github.com/aryan-cs/metro-hast)
-- [Monty Hall Problem](https://github.com/aryan-cs/monty-hall/blob/master/monty_python.ipynb)
-- [3-Dice Game from Five Rings Interview](https://github.com/aryan-cs/five-rings-interview/blob/master/five_rings_interview.ipynb)
-- [Keynesian Thought Processes & Game Theory Application](https://github.com/aryan-cs/keynesian-thinking/blob/master/keynesian_thinking.ipynb)
-- [String Art w/ Stochastic Sampling & Shannon Entropy](https://github.com/aryan-cs/string-art)
-
-
-<h3 align="left">AI/ML</h3>
-
-- [Gradient](https://github.com/aryan-cs/gradient)
-- [Transitioning from Token-first Architecture to 'Notion'-first Architecture (WIP)](https://github.com/aryan-cs/notion-space)
-- [Improving Financial Response Forecasting from SEC Disclosures](https://github.com/aryan-cs/distributional-jump-bridges)
-- [Open Source Machine Learning Education Platform Prototype](https://github.com/aryan-cs/burn)
-- [Truth-grounded Digital Twins, Information Diffusion Simulations](https://github.com/aryan-cs/matrix)
-- [LLMs, Prediction Markets, and Quantitative Finance](https://github.com/aryan-cs/grok-trader) 
-- [Lightweight C++ Neural Network](https://github.com/aryan-cs/rhesus-macaque)
-- [Computer Vision & 3D Trigonometry](https://github.com/aryan-cs/hand-e)
-- [Computer Vision & UAVs/F22 Raptor](https://github.com/aryan-cs/bird)
-- [Computer Vision, Biotechnology, and ESP32/Arduino Hardware](https://github.com/aryan-cs/project-plastic)
-
-
-<h3 align="left">Tools/Resources</h3>
-
-- [Data Structures & Algorithms Reference Sheet in C++](https://github.com/aryan-cs/dsa)
-- [NeurIPS/ICML/ICLR Outreach](https://github.com/aryan-cs/prof)
-- [Researcher Insights](https://profalytics.vercel.app/)
-- [Go Green!](https://github.com/aryan-cs/mandrill)
-- [Hackathon Idea Search Engine](https://aryan-cs.github.io/hackaplan/)
-- [Aryan's Resume Template](https://www.overleaf.com/read/gwxsbvmyrvnr#73301e)
-- [Claude Code Rate Limit Workaround](https://github.com/aryan-cs/go-claude)
-- [Open Source Wispr Flow](https://github.com/aryan-cs/better-voice-ink)
-- [Whiteboarding with AI](https://github.com/aryan-cs/canvas-llm)
+<details>
+<summary><strong>Tools/Resources</strong></summary>
+<ul>
+<li><a href="https://github.com/aryan-cs/dsa">Data Structures &amp; Algorithms Reference Sheet in C++</a></li>
+<li><a href="https://github.com/aryan-cs/prof">NeurIPS/ICML/ICLR Outreach</a></li>
+<li><a href="https://profalytics.vercel.app/">Researcher Insights</a></li>
+<li><a href="https://github.com/aryan-cs/mandrill">Go Green!</a></li>
+<li><a href="https://aryan-cs.github.io/hackaplan/">Hackathon Idea Search Engine</a></li>
+<li><a href="https://www.overleaf.com/read/gwxsbvmyrvnr#73301e">Aryan's Resume Template</a></li>
+<li><a href="https://github.com/aryan-cs/go-claude">Claude Code Rate Limit Workaround</a></li>
+<li><a href="https://github.com/aryan-cs/better-voice-ink">Open Source Wispr Flow</a></li>
+<li><a href="https://github.com/aryan-cs/canvas-llm">Whiteboarding with AI</a></li>
+</ul>
+</details>
