@@ -19,8 +19,8 @@
 <details open>
 <summary><strong>Machine Learning</strong></summary>
 <ul>
-<li><a href="https://aryan-cs.github.io/notion-space/proof.pdf">The Notion-Based Reasoning System</a> [<a href="https://github.com/aryan-cs/notion-space"><code>REPO</code></a>] (<code>Proposal</code>)</li>
 <li><a href="https://aryan-cs.github.io/rldf/proof.pdf">Reinforcement Learning from Downstream Feedback</a> [<a href="https://github.com/aryan-cs/rldf"><code>REPO</code></a>] (<code>Proposal</code>)</li>
+<li><a href="https://aryan-cs.github.io/notion-space/proof.pdf">The Notion-Based Reasoning System</a> [<a href="https://github.com/aryan-cs/notion-space"><code>REPO</code></a>] (<code>Proposal</code>)</li>
 </ul>
 </details>
 
