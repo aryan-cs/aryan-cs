@@ -7,9 +7,20 @@
 <details open>
 <summary><strong>Interpretability, Alignment, and Safety</strong></summary>
 <ul>
-<li><a href="https://aryan-cs.github.io/notion-space/proof.pdf">The Notion-Based Reasoning System: Compositional Execution via Dependency-Gated Recurrence</a> [<a href="https://github.com/aryan-cs/notion-space"><code>REPO</code></a>]</li>
 <li><a href="https://aryan-cs.github.io/kv-cache-safety/kv-cache-safety.pdf">The Safety Tax of Cache Compression</a> [<a href="https://github.com/aryan-cs/kv-cache-safety"><code>REPO</code></a>]</li>
 <li><a href="https://aryan-cs.github.io/llm-altruism/release/research-proposal.pdf">Measuring Altruism, Alignment, and Social Welfare in Large Language Model Agents</a> [<a href="https://github.com/aryan-cs/llm-altruism"><code>REPO</code></a>] (<code>Under Review @ NeurIPS '26</code>)</li>
+<li><a href="https://aryan-cs.github.io/fourier-alignment/proof.pdf">The Spectral Geometry of Misalignment</a> [<a href="https://github.com/aryan-cs/fourier-alignment"><code>REPO</code></a>] (<code>Proposal</code>)</li>
+<li><a href="https://aryan-cs.github.io/steering-rebels/proof.pdf">The Depth of Deception Steering</a> [<a href="https://github.com/aryan-cs/steering-rebels"><code>REPO</code></a>] (<code>Proposal</code>)</li>
+<li><a href="https://aryan-cs.github.io/liar-liar/proof.pdf">Liar, Liar: Beyond Vocabulary Suppression</a> [<a href="https://github.com/aryan-cs/liar-liar"><code>REPO</code></a>] (<code>Proposal</code>)</li>
+<li><a href="https://aryan-cs.github.io/catching-pivots/proof.pdf">Where Reasoning Models Commit to Deception</a> [<a href="https://github.com/aryan-cs/catching-pivots"><code>REPO</code></a>] (<code>Proposal</code>)</li>
+</ul>
+</details>
+
+<details open>
+<summary><strong>Machine Learning</strong></summary>
+<ul>
+<li><a href="https://aryan-cs.github.io/notion-space/proof.pdf">Notions: Structure-Content Decomposition for Reasoning</a> [<a href="https://github.com/aryan-cs/notion-space"><code>REPO</code></a>] (<code>Proposal</code>)</li>
+<li><a href="https://aryan-cs.github.io/rldf/proof.pdf">Reinforcement Learning from Downstream Feedback</a> [<a href="https://github.com/aryan-cs/rldf"><code>REPO</code></a>] (<code>Proposal</code>)</li>
 </ul>
 </details>
 
@@ -25,7 +36,7 @@
 <ul>
 <li><a href="https://aryan-cs.github.io/poker-like-games/discrete-edition.pdf">World's Simplest Poker: A Complete Analysis of the Discrete Analogue</a> [<a href="https://github.com/aryan-cs/poker-like-games"><code>REPO</code></a>]</li>
 <li><a href="https://aryan-cs.github.io/poker-like-games/poker-like-games.pdf">The Mathematics of Poker-like Games</a> [<a href="https://github.com/aryan-cs/poker-like-games"><code>REPO</code></a>]</li>
-<li><a href="https://aryan-cs.github.io/combating-misinformation/combating-misinformation.pdf">Extending Persuasion for Misinformation to Graphs</a> [<a href="https://github.com/aryan-cs/combating-misinformation"><code>REPO</code></a>]</li>
+<li><a href="https://aryan-cs.github.io/combating-misinformation/combating-misinformation.pdf">Extending Persuasion for Misinformation to Graphs</a> [<a href="https://github.com/aryan-cs/combating-misinformation"><code>REPO</code></a>] (<code>Proposal</code>)</li>
 </ul>
 </details>
 
