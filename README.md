@@ -7,12 +7,12 @@
 <details open>
 <summary><strong>Interpretability, Alignment, and Safety</strong></summary>
 <ul>
-<li><a href="https://aryan-cs.github.io/kv-cache-safety/kv-cache-safety.pdf">The Safety Tax of Cache Compression</a> [<a href="https://github.com/aryan-cs/kv-cache-safety"><code>REPO</code></a>]</li>
-<li><a href="https://aryan-cs.github.io/llm-altruism/release/research-proposal.pdf">Measuring Altruism, Alignment, and Social Welfare in Large Language Model Agents</a> [<a href="https://github.com/aryan-cs/llm-altruism"><code>REPO</code></a>] (<code>Under Review @ NeurIPS '26</code>)</li>
-<li><a href="https://aryan-cs.github.io/fourier-alignment/proof.pdf">The Spectral Geometry of Misalignment</a> [<a href="https://github.com/aryan-cs/fourier-alignment"><code>REPO</code></a>] (<code>Proposal</code>)</li>
-<li><a href="https://aryan-cs.github.io/steering-rebels/proof.pdf">The Depth of Deception Steering</a> [<a href="https://github.com/aryan-cs/steering-rebels"><code>REPO</code></a>] (<code>Proposal</code>)</li>
-<li><a href="https://aryan-cs.github.io/liar-liar/proof.pdf">Liar, Liar: Beyond Vocabulary Suppression</a> [<a href="https://github.com/aryan-cs/liar-liar"><code>REPO</code></a>] (<code>Proposal</code>)</li>
-<li><a href="https://aryan-cs.github.io/catching-pivots/proof.pdf">Where Reasoning Models Commit to Deception</a> [<a href="https://github.com/aryan-cs/catching-pivots"><code>REPO</code></a>] (<code>Proposal</code>)</li>
+  <li><a href="https://aryan-cs.github.io/alignment-geometry/paper.pdf">The Spectral Geometry of Misalignment</a> [<a href="https://github.com/aryan-cs/alignment-geometry"><code>REPO</code></a>]</li>
+  <li><a href="https://aryan-cs.github.io/liar-liar/paper.pdf">Liar, Liar: Beyond Vocabulary Suppression</a> [<a href="https://github.com/aryan-cs/liar-liar"><code>REPO</code></a>]</li>
+  <li><a href="https://aryan-cs.github.io/kv-cache-safety/kv-cache-safety.pdf">The Safety Tax of Cache Compression</a> [<a href="https://github.com/aryan-cs/kv-cache-safety"><code>REPO</code></a>]</li>
+  <li><a href="https://aryan-cs.github.io/llm-altruism/release/research-proposal.pdf">Measuring Altruism, Alignment, and Social Welfare in Large Language Model Agents</a> [<a href="https://github.com/aryan-cs/llm-altruism"><code>REPO</code></a>] (<code>Under Review @ NeurIPS '26</code>)</li>
+  <li><a href="https://aryan-cs.github.io/steering-rebels/proof.pdf">The Depth of Deception Steering</a> [<a href="https://github.com/aryan-cs/steering-rebels"><code>REPO</code></a>] (<code>Proposal</code>)</li>
+  <li><a href="https://aryan-cs.github.io/catching-pivots/proof.pdf">Where Reasoning Models Commit to Deception</a> [<a href="https://github.com/aryan-cs/catching-pivots"><code>REPO</code></a>] (<code>Proposal</code>)</li>
 </ul>
 </details>
 
