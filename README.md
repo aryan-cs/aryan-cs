@@ -89,5 +89,6 @@
 <li><a href="https://github.com/aryan-cs/go-claude">Claude Code Rate Limit Workaround</a></li>
 <li><a href="https://github.com/aryan-cs/better-voice-ink">Open Source Wispr Flow</a></li>
 <li><a href="https://github.com/aryan-cs/canvas-llm">Whiteboarding with AI</a></li>
+<li><a href="https://github.com/aryan-cs/skill-marketplace">Skills & Stuff</a></li>
 </ul>
 </details>
