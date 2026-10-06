@@ -87,6 +87,7 @@
 <li><a href="https://aryan-cs.github.io/hackaplan/">Hackathon Idea Search Engine</a></li>
 <li><a href="https://www.overleaf.com/read/gwxsbvmyrvnr#73301e">Aryan's Resume Template</a></li>
 <li><a href="https://github.com/aryan-cs/go-claude">Claude Code Rate Limit Workaround</a></li>
+<li><a href="https://github.com/aryan-cs/notch">Dynamic Island, Face ID, and Notch Tools for Mac</a></li>
 <li><a href="https://github.com/aryan-cs/better-voice-ink">Open Source Wispr Flow</a></li>
 <li><a href="https://github.com/aryan-cs/canvas-llm">Whiteboarding with AI</a></li>
 <li><a href="https://github.com/aryan-cs/skill-marketplace">Skills & Stuff</a></li>
